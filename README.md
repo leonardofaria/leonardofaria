@@ -1,6 +1,6 @@
 <center>
 
-![Welcome](welcome.gif)
+![Welcome](https://raw.githubusercontent.com/leonardofaria/leonardofaria/master/welcome.gif)
 
 <br>
 
@@ -9,7 +9,7 @@ Hi! Welcome to **GitHucities**! I am Leo!
 
 <br>
 
-![Computer](computers.gif)
+![Computer](https://raw.githubusercontent.com/leonardofaria/leonardofaria/master/computers.gif)
 
 <br>
 <br>
@@ -22,11 +22,11 @@ Hi! Welcome to **GitHucities**! I am Leo!
 
 <br>
 
-![Line](line.gif)
+![Line](https://raw.githubusercontent.com/leonardofaria/leonardofaria/master/line.gif)
 
 <br>
 
-![Made with Mac](madewithmac.gif)
+![Made with Mac](https://raw.githubusercontent.com/leonardofaria/leonardofaria/master/madewithmac.gif)
 <img src="https://enklwyqjn60aiz2.m.pipedream.net" width="0" height="0">
 
 </center>
