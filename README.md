@@ -1,8 +1,18 @@
-# Hi, I'm Leo 👋
+<center>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/leozera?label=Follow%20on%20Twitter)](https://twitter.com/leozera/)
+![Welcome](welcome.gif)
 
-I am a Brazilian software living in Vancouver 🇨🇦
+<br>
+
+
+Hi! Welcome to **GitHucities**! I am Leo!
+
+<br>
+
+![Computer](computers.gif)
+
+<br>
+<br>
 
 🔗 Check my [website](https://leonardofaria.net) for posts about JavaScript, Ruby and web development in general.
 
@@ -10,4 +20,9 @@ I am a Brazilian software living in Vancouver 🇨🇦
 
 ⬇️ Check my open-source repositories below.
 
+<br>
+
+![Made with Mac](madewithmac.gif)
 <img src="https://enklwyqjn60aiz2.m.pipedream.net" width="0" height="0">
+
+</center>
