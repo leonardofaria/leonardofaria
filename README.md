@@ -22,6 +22,10 @@ Hi! Welcome to **GitHucities**! I am Leo!
 
 <br>
 
+![Line](line.gif)
+
+<br>
+
 ![Made with Mac](madewithmac.gif)
 <img src="https://enklwyqjn60aiz2.m.pipedream.net" width="0" height="0">
 
